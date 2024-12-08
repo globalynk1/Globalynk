@@ -1,0 +1,2 @@
+# globalynk
+Creating links.
