@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DownloadBasePath</key>
+    <string>/home/hadmars/Multimedia/Pictures/Photos/2024 226</string>
+    <key>NSDefaultOpenDirectory</key>
+    <string>/home/hadmars/Multimedia/Pictures/Photos/2024 226</string>
+    <key>UseTimestampDirectory</key>
+    <true/>
+</dict>
+</plist>
